@@ -16,7 +16,8 @@
 
 ### Screenshot
 
-![image](https://github.com/kalkuk/Qr-code-component/assets/115346296/bf29376f-9822-460d-9937-0f502136fe4b)
+![image](https://github.com/kalkuk/Qr-code-component/assets/115346296/43dbcce5-a852-4df0-b9b6-f63191b441e9)
+
 
 
 
